@@ -1,17 +1,18 @@
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, data science, and open-source projects. Here's a little bit about me:
+# 💫 About Me:
+## 👋 Welcome to My GitHub Profile!<br><br>Hi! I'm **Wahaj**, a passionate developer with a strong interest in **web development, programming, and open-source projects**. I enjoy building clean, user-friendly interfaces and continuously improving my problem-solving skills.<br><br>### 🚀 About Me<br>- 🌱 I have completed **Frontend Development** and actively build projects using **React.js**<br>- 👯 I’m looking to collaborate on **React.js and frontend-focused projects**<br>- 💬 Ask me about **Frontend Development, UI/UX Design, and Web Technologies**<br>- ⚡ Fun fact: I love turning ideas into interactive user experiences<br><br>### 🛠️ Skills & Technologies<br>- **Languages:** JavaScript, HTML, CSS, **C++**, Java (basic)<br>- **Frameworks & Libraries:** React.js<br>- **Tools:** Git, GitHub, VS Code<br>- **Design:** UI/UX principles, responsive design<br><br>### 📫 Connect With Me<br>- 📧 Email: **mwahajjutt123@gmail.com**<br>- 💼 LinkedIn: [linkedin.com/in/wahaj-jutt-182451303](https://linkedin.com/in/wahaj-jutt-182451303)<br>- 📸 Instagram: [@whaj._](https://www.instagram.com/whaj._/)<br><br>💡 *Feel free to reach out if you’d like to collaborate, need help with a project, or just want to connect!*<br>
 
-About Me
-🌱 I’m currently learning: FrontEnd Devlopment
-👯 I’m looking to collaborate on React js 
-💬 Ask me about : FrontEnd Devlopment and UI/UX designing
-📫 How to reach me:mwahajjutt123@gmail.com
-⚡ Fun fact: 
-Skills
-Languages: JavaScript, HTML, CSS
-rameworks: React
-Tools: Git
-Contact Me:
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect!
-Email: mwahajjutt123@gmail.com
-LinkedIn: linkedin.com/in/wahaj-jutt-182451303
-Instagram : https://www.instagram.com/whaj._/
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gBbvTfrjBW) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/wahaj.jutt.735) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whaj._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/muhammadwahajj) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/whaj7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/wahajjutt373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mwahajjutt123@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mu-Wahaj&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mu-Wahaj&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-Wahaj&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mu-Wahaj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
